@@ -10,9 +10,6 @@ INDICE
 -Explicación del Código
 -Notas Importantes
 -Contribuciones
--Licencia
--Contacto
-
 
 CARACTERÍSTICAS
 Cifrado de archivos utilizando una combinación de criptografía simétrica y asimétrica.
@@ -179,8 +176,3 @@ Crea una rama para tu funcionalidad (git checkout -b feature/nueva-funcionalidad
 Realiza tus cambios y agrega commits descriptivos (git commit -am 'Agrego nueva funcionalidad').
 Envía tus cambios a tu repositorio (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request en GitHub.
-Licencia
-Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo LICENSE.
-
-Contacto
-Si tienes preguntas, sugerencias o encuentras algún problema, no dudes en abrir un issue en GitHub o contactarme directamente a través de [tu correo electrónico].
