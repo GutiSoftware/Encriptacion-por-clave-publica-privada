@@ -3,16 +3,26 @@ Sistema de Cifrado de Archivos por Clave Pública/Privada
 Este proyecto es una aplicación de Python que permite cifrar y descifrar archivos utilizando criptografía de clave pública y privada (RSA), junto con cifrado simétrico (AES). La aplicación ofrece una interfaz gráfica interactiva utilizando Pygame, donde los usuarios pueden generar una clave robusta a través de un patrón dibujado en una colmena de hexágonos.
 
 INDICE
+
 -Características
+
 -Requisitos del Sistema
+
 -Instalación de Librerías
+
 -Instrucciones de Uso
+
 -Detalles Técnicos
+
 -Explicación del Código
+
 -Notas Importantes
+
 -Contribuciones
 
+
 CARACTERÍSTICAS
+
 Cifrado de archivos utilizando una combinación de criptografía simétrica y asimétrica.
 Descifrado de archivos protegido mediante una clave robusta generada por el usuario.
 Generación de claves RSA (pública y privada) con protección adicional de la clave privada.
@@ -21,39 +31,48 @@ Generación de clave robusta mediante un patrón dibujado en una interfaz de col
 Explicación interactiva sobre el cifrado de clave pública y privada.
 
 REQISITOS DEL SISTEMA
+
 Python 3.6 o superior
+
 Sistema operativo: Windows (el script utiliza módulos específicos de Windows como ctypes.windll y tkinter).
 
 INSTALACIÓN DE LIBRERÍAS
+
 El script requiere varias librerías externas. A continuación, se detallan las librerías y cómo instalarlas:
 
 Pygame: Librería para desarrollo de videojuegos y aplicaciones gráficas.
+
 pip install pygame
 
 PyCryptodome: Implementación de algoritmos criptográficos (AES, RSA).
+
 pip install pycryptodome
 
 Cryptography: Librería avanzada para criptografía.
+
 pip install cryptography
 
 Tkinter: Biblioteca estándar para interfaces gráficas. Suele venir preinstalada con Python en Windows.
+
 Si no la tienes instalada, puedes descargarla desde Python.org.
 
 Otros módulos estándar: sys, os, math, json, base64, hashlib, ctypes
+
 Estos módulos vienen incluidos con la instalación estándar de Python.
 
 INSTALACIÓN DE LIBRERÍAS
-1. Clona el Repositorio
+
+Clona el Repositorio
 git clone https://github.com/tu_usuario/tu_repositorio.git
 
-2. Navega al Directorio del Proyecto
+Navega al Directorio del Proyecto
 cd tu_repositorio
 
-3. Asegúrate de que el Icono está en el Directorio
+Asegúrate de que el Icono está en el Directorio
 Coloca el archivo candado.png en el mismo directorio que Cifrado_archivos.py.
 Este icono se utiliza para personalizar la ventana de Pygame.
 
-4. Ejecuta el Script
+Ejecuta el Script
 python Cifrado_archivos.py
 
 INSTRUCCIONES DE USO
