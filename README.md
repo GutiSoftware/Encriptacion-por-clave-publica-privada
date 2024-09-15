@@ -176,3 +176,4 @@ Crea una rama para tu funcionalidad (git checkout -b feature/nueva-funcionalidad
 Realiza tus cambios y agrega commits descriptivos (git commit -am 'Agrego nueva funcionalidad').
 Envía tus cambios a tu repositorio (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request en GitHub
+Puedes bajarte una version ejecutable desde este link: https://sourceforge.net/projects/cifrado/files/Cifrado_archivos.zip/download
