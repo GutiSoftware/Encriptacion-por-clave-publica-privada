@@ -62,9 +62,6 @@ Estos módulos vienen incluidos con la instalación estándar de Python.
 
 INSTALACIÓN DE LIBRERÍAS
 
-Clona el Repositorio
-git clone https://github.com/tu_usuario/tu_repositorio.git
-
 Navega al Directorio del Proyecto
 cd tu_repositorio
 
