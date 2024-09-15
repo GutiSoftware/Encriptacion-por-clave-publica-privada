@@ -1,4 +1,5 @@
 Sistema de Cifrado de Archivos por Clave Pública/Privada
+
 Este proyecto es una aplicación de Python que permite cifrar y descifrar archivos utilizando criptografía de clave pública y privada (RSA), junto con cifrado simétrico (AES). La aplicación ofrece una interfaz gráfica interactiva utilizando Pygame, donde los usuarios pueden generar una clave robusta a través de un patrón dibujado en una colmena de hexágonos.
 
 INDICE
