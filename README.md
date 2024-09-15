@@ -175,4 +175,4 @@ Haz un fork del repositorio.
 Crea una rama para tu funcionalidad (git checkout -b feature/nueva-funcionalidad).
 Realiza tus cambios y agrega commits descriptivos (git commit -am 'Agrego nueva funcionalidad').
 Envía tus cambios a tu repositorio (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request en GitHub.
+Abre un Pull Request en GitHub
